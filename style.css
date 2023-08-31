@@ -94,3 +94,24 @@ body {
   width: 100%;
   border-radius: 3rem; /* 48px converted to rem */
 }
+
+@media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column;
+  }
+
+  .city-text-container {
+    width: 100%;
+    margin-top: 2rem;
+    padding: 2rem;
+  }
+
+  .city-gallery {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+  .gallery-button {
+    width: calc(50% - 1rem);
+  }
+}
