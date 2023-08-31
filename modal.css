@@ -132,4 +132,8 @@
     padding: 10px;
   }
 
+  .splide__slide {
+    height: auto;
+  }
+
 }
