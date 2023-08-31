@@ -132,6 +132,5 @@
 }
 .splide__slide img {
   width: 100%;
-  height: calc(width * 0.75);
 }
 }
