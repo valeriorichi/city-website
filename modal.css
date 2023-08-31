@@ -127,11 +127,17 @@
 
 @media (max-width: 768px) {
   .modal__container {
-  width: 95%;
-  padding: 10px;
-}
-.splide__slide img {
-  width: 100%;
-  height: auto;
-}
+    width: 95%;
+    padding: 10px;
+  }
+
+  .splide__slide {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .splide__slide img {
+    width: 100%;
+  }
+
 }
