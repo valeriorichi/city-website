@@ -138,6 +138,10 @@ body {
     padding-bottom: 4rem;
   }
 
+  .gallery {
+    margin: 0 1rem;
+  }
+
   .gallery-button {
     width: calc(50% - 1rem);
   }
