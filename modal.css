@@ -132,4 +132,7 @@
     padding: 10px;
   }
 
+  .splide__slide img {
+    width: 100%;
+  }
 }
