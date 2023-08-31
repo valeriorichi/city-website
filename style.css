@@ -12,18 +12,23 @@ body {
 
 .city-title {
   color: #1B1D1F;
-  font-size: 2.75rem; /* 44px converted to rem */
+  font-size: 2.75rem;
+  /* 44px converted to rem */
   font-weight: 600;
-  line-height: 3rem; /* 48px converted to rem */
-  margin-bottom: 2.25rem; /* 36px converted to rem */
+  line-height: 3rem;
+  /* 48px converted to rem */
+  margin-bottom: 2.25rem;
+  /* 36px converted to rem */
   margin-top: 0;
 }
 
 .city-descr {
   color: #1B1D1F;
-  font-size: 1rem; /* 16px converted to rem */
+  font-size: 1rem;
+  /* 16px converted to rem */
   font-weight: 400;
-  line-height: 1.5rem; /* 24px converted to rem */
+  line-height: 1.5rem;
+  /* 24px converted to rem */
 }
 
 .city-page {
@@ -35,7 +40,8 @@ body {
 }
 
 .wrapper {
-  width: 73.125rem; /* 1170px converted to rem */
+  width: 73.125rem;
+  /* 1170px converted to rem */
   height: 100%;
   margin: auto;
   display: flex;
@@ -44,33 +50,43 @@ body {
 }
 
 .city-text-container {
-  border-radius: 2.5rem; /* 40px converted to rem */
+  border-radius: 2.5rem;
+  /* 40px converted to rem */
   background: #FFF;
-  padding: 3.75rem; /* 60px converted to rem */
+  padding: 3.75rem;
+  /* 60px converted to rem */
   box-sizing: border-box;
-  width: 36.5625rem; /* 573px converted to rem */
+  width: 36.5625rem;
+  /* 573px converted to rem */
 }
 
 .goit-logo {
   position: absolute;
   left: 0;
-  top: 2rem; /* 32px converted to rem */
+  top: 2rem;
+  /* 32px converted to rem */
 }
 
 .city-gallery {
-  height: 37.5rem; /* 600px converted to rem */
-  padding-top: 6.25rem; /* 100px converted to rem */
-  padding-bottom: 6.25rem; /* 100px converted to rem */
+  height: 37.5rem;
+  /* 600px converted to rem */
+  padding-top: 6.25rem;
+  /* 100px converted to rem */
+  padding-bottom: 6.25rem;
+  /* 100px converted to rem */
   text-align: center;
   box-sizing: border-box;
 }
 
 .city-gallery-title {
   color: #1B1D1F;
-  font-size: 2.75rem; /* 44px converted to rem */
+  font-size: 2.75rem;
+  /* 44px converted to rem */
   font-weight: 600;
-  line-height: 3rem; /* 48px converted to rem */
-  margin-bottom: 5rem; /* 80px converted to rem */
+  line-height: 3rem;
+  /* 48px converted to rem */
+  margin-bottom: 5rem;
+  /* 80px converted to rem */
   margin-top: 0;
 }
 
@@ -81,18 +97,22 @@ body {
 }
 
 .gallery-button {
-  width: calc(25% - 1.5rem); /* 24px converted to rem */
-  margin-bottom: 1.5rem; /* 24px converted to rem */
+  width: calc(25% - 1.5rem);
+  /* 24px converted to rem */
+  margin-bottom: 1.5rem;
+  /* 24px converted to rem */
   border: none;
   background: none;
   cursor: pointer;
-  border-radius: 3rem; /* 48px converted to rem */
+  border-radius: 3rem;
+  /* 48px converted to rem */
   padding: 0;
 }
 
 .gallery-image {
   width: 100%;
-  border-radius: 3rem; /* 48px converted to rem */
+  border-radius: 3rem;
+  /* 48px converted to rem */
 }
 
 @media (max-width: 768px) {
@@ -101,9 +121,11 @@ body {
   }
 
   .city-descr {
-  font-size: 2rem; /* 16px converted to rem */
-  font-weight: 400;
-  line-height: 3rem;
+    font-size: 2rem;
+    /* 16px converted to rem */
+    font-weight: 400;
+    line-height: 3rem;
+  }
 
   .city-text-container {
     width: 100%;
