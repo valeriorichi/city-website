@@ -123,3 +123,9 @@
 .micromodal-slide .modal__overlay {
   will-change: transform;
 }
+
+
+@media (max-width: 768px) {
+  .modal__container {
+  width: 90%;
+}
