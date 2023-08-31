@@ -127,5 +127,10 @@
 
 @media (max-width: 768px) {
   .modal__container {
-  width: 90%;
+  width: 95%;
+}
+.splide__slide img {
+  width: 100%;
+  height: calc(var(--img-width) * 0.75);
+}
 }
