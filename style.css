@@ -168,4 +168,9 @@ body {
     width: calc(50% - 0.25rem);
     border-radius: 1rem;
   }
+
+  .gallery-image {
+    border-radius: 1rem;
+
+  }
 }
